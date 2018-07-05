@@ -1,11 +1,11 @@
 Catalog,Category,Category Code,Item Name,Unit of Measure,Kit,Comments
-Default,All Inclusive Kits/Packs,Kits/Packs,Shelter Kit,Number,Yes,
-Default,All Inclusive Kits/Packs,Kits/Packs,Dignity Kit,Number,Yes,
-Default,All Inclusive Kits/Packs,Kits/Packs,Hygiene Kit,Number,Yes,
-Default,All Inclusive Kits/Packs,Kits/Packs,Disinfectant Kit,Number,Yes,
-Default,All Inclusive Kits/Packs,Kits/Packs,Reproductive Health Kit,Number,Yes,
-Default,All Inclusive Kits/Packs,Kits/Packs,Household Kit,Number,Yes,
-Default,All Inclusive Kits/Packs,Kits/Packs,Education Kit,Number,Yes,
+Default,All Inclusive Kits/Packs,Kits/Packs,Shelter kit,Number,Yes,
+Default,All Inclusive Kits/Packs,Kits/Packs,Dignity kit,Number,Yes,
+Default,All Inclusive Kits/Packs,Kits/Packs,Hygiene kit,Number,Yes,
+Default,All Inclusive Kits/Packs,Kits/Packs,Disinfectant kit,Number,Yes,
+Default,All Inclusive Kits/Packs,Kits/Packs,Reproductive Health kit,Number,Yes,
+Default,All Inclusive Kits/Packs,Kits/Packs,Household kit,Number,Yes,
+Default,All Inclusive Kits/Packs,Kits/Packs,Education kit,Number,Yes,
 Default,Assets/Equipment,Assets/Equipment,Truck,Number,,
 Default,Assets/Equipment,Assets/Equipment,Motor Boat,Number,,
 Default,Assets/Equipment,Assets/Equipment,Water Pump (Diesel),Number,,"Diesel driver,submersible"
